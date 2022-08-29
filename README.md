@@ -21,8 +21,10 @@ git clone https://github.com/atraxsrc/Pop_os-theme-changer.git
 chmod +x poplib.py
 ```
 3. Run script:
-```python3
+```python
+
 python3 poplib.py
+
 ```
 
 ## How to reset to default Adwaita theme?
