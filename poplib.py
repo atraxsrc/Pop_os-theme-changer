@@ -49,4 +49,4 @@ if __name__ == "__main__":
                     sp.run(["ln", "-s", f'{home_dir}{themes_dir}/{chk_theme}/assets', f'{home_dir}{config_dir}/assets'])
                     print("Done.")
     except ValueError as e:
-        print("Incorrect value! Please try again!")
+        print("Incorrect value! Try again!")
