@@ -16,12 +16,12 @@ Go to ``~/.config/gtk-4.0`` directories.
 ```
 git clone https://github.com/atraxsrc/Pop_os-theme-changer.git
 ```
-2. Add run permissions to file:
+2. Add executable permissions to file:
 ```bash
 chmod +x poplib.py
 ```
 3. Run script:
-```python
+```python3
 python3 poplib.py
 ```
 
