@@ -22,9 +22,7 @@ chmod +x poplib.py
 ```
 3. Run script:
 ```python
-
 python3 poplib.py
-
 ```
 
 ## How to reset to default Adwaita theme?
