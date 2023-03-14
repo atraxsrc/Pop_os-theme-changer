@@ -15,6 +15,7 @@ Go to ``~/.config/gtk-4.0`` directories.
 1. Download Python script from git:
 ```
 git clone https://github.com/atraxsrc/Pop_os-theme-changer.git
+cd Pop_os-theme-changer
 ```
 2. Add executable permissions to file:
 ```bash
