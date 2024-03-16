@@ -2,7 +2,7 @@
 Bypass libadwaita on elementary apps
 
 ## Disclaimer!
-Use this script at your own risk! (Althought it works flawlessly)
+Use this script at your own risk! 
 
 ## How it works?
 It just create simlinks between .themes and .config folder with assets and GTK 4.0 theme CSS files.
